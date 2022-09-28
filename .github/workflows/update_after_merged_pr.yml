@@ -18,6 +18,7 @@ jobs:
       - name: List Contribute data files
         run: ls ${{ github.workspace }}/Contribute
       - run: python Scripts/add_mappings.py
+      - run: python Scripts/update_status.py
       - name: Commit changes
         uses: devops-infra/action-commit-push@master
         with:
