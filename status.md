@@ -2,8 +2,8 @@
 
 ## Inputs
 
-?
+0
 
 ## Outpus
 
-?
+0
