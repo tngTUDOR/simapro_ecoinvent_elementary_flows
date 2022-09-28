@@ -80,7 +80,7 @@ A contributor forks this repository and adds their mapping contribution as a new
 
 ## Status
 
-Current status is reported in [status.md](status.md)
+Current status is reported in the file: [status.md](status.md)
 
 ## Contributing
 
